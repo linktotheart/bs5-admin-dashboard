@@ -1,0 +1,11 @@
+#content{
+    background: var(--light);
+    padding-left: 13.5rem;
+    min-height: calc(100vh - 4.66rem);
+    padding-top: 3rem;
+    padding-right: .5rem;
+
+    main{
+        flex-grow: 1;
+    }
+}
